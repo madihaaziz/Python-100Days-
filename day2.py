@@ -1,4 +1,5 @@
 #Calculator
+#Alt+Shift+down/up arrow to copy and paste the line
 
 a=int(input("Enter the first number:"))
 b=int(input("Enter the second number:"))
